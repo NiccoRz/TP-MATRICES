@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\nicor\onedrive\escritorio\utn\aprimeraño\programación y laboratorio i\workspacec\tp6 - matrices\ruiz nicolas - tp matrices\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1653578793 source:c:\users\nicor\onedrive\escritorio\utn\aprimeraño\programación y laboratorio i\workspacec\tp6 - matrices\ruiz nicolas - tp matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
